@@ -1,4 +1,4 @@
-# NorthStar Delivery Data Analytics
+# NorthStar Delivery Analytics
 
 A data analytics project on the NorthStar urban delivery dataset: orders, deliveries,
 drivers, hubs, customers, vehicles, complaints, incidents and app events. It covers
